@@ -1,1 +1,1 @@
-echo "hai" > hai.txt
+echo "hai" > hai1.txt
